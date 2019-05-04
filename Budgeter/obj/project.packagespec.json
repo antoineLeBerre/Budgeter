@@ -42,6 +42,18 @@
           "target": "Package",
           "version": "[2.2.0, )",
           "autoReferenced": true
+        },
+        "Npgsql": {
+          "target": "Package",
+          "version": "[4.0.6, )"
+        },
+        "Npgsql.EntityFrameworkCore.PostgreSQL": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
+          "target": "Package",
+          "version": "[2.0.0-preview1, )"
         }
       },
       "imports": [
